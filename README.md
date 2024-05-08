@@ -1,2 +1,2 @@
 # DICTIONARY API
-This is a rest api made with flask that returns definitions of words.
+This is a rest api that returns the definition of a word.
